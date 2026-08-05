@@ -48,11 +48,13 @@ The **Temperature Alarm** is a low-cost and reliable analog electronic project t
 
 ### Schematic Circuit
 
-![Schematic Circuit](images/schematic_circuit.jpg)
+<img width="1240" height="721" alt="Screenshot 2026-08-05 161508 - Copy" src="https://github.com/user-attachments/assets/2fc015ae-c646-4bc6-ae68-77cda43b697c" />
+
 
 ### Proteus Simulation
 
-![Proteus Simulation](images/proteus_simulation.jpg)
+<img width="1600" height="900" alt="4053210d6cdbe3dbe096be181ae39c94" src="https://github.com/user-attachments/assets/4e3b8499-da93-4671-a3f2-ef1779830cac" />
+
 
 ---
 
