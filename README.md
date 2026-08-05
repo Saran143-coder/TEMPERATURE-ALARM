@@ -51,9 +51,10 @@ The **Temperature Alarm** is a low-cost and reliable analog electronic project t
 <img width="1240" height="721" alt="Screenshot 2026-08-05 161508 - Copy" src="https://github.com/user-attachments/assets/2fc015ae-c646-4bc6-ae68-77cda43b697c" />
 
 
-### Proteus Simulation
+### Sample circuit for stimulation
 
-<img width="1600" height="900" alt="4053210d6cdbe3dbe096be181ae39c94" src="https://github.com/user-attachments/assets/4e3b8499-da93-4671-a3f2-ef1779830cac" />
+<img width="1080" height="412" alt="WhatsApp Image 2026-08-05 at 4 13 24 PM" src="https://github.com/user-attachments/assets/c72726d7-4bde-4084-a0a5-dc81503d3d22" />
+
 
 
 ---
